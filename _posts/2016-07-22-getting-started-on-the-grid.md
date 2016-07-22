@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T19:05:11.337Z'
-dateModified: '2016-07-22T19:02:41.933Z'
-title: Mike Larson M
+datePublished: '2016-07-22T19:35:49.275Z'
+dateModified: '2016-07-22T19:35:18.594Z'
+title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-22-getting-started-on-the-grid.md
@@ -19,16 +19,10 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Mike Larson M
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6683fd4e-45ff-4e46-9a1d-1af1c3c61aff.jpg)
 
-The name you choose during site creation will also be your domain (thegrid.ai/SiteName). Choose something cool, but don't stress over it -- you can change it later.
-
-**When will your site be live?** After going through the site creation process, your site won't actually be "live" until you start adding posts and publishing content. 
-
-## Adding Your Content
-
-There are a few ways to add content to your sites.
+Culinary Lifestyle Editorial Photographer
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db4a882-4c72-485f-bc53-fdb93f33a5bc.jpg)
 
 1. **Share from the web**. To add content from anywhere on the web, install The Grid Chrome extension via this link: http://thegr.id/1IRWuyn. Then simply right-click the content you want to share, and select the Grid icon with "share" next to it. It'll appear as a post on your drafts dashboard.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ace29033602f2d9baec3/file-B9ogQ0DNxU.gif)
