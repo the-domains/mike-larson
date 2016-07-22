@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T19:39:01.245Z'
-dateModified: '2016-07-22T19:38:50.861Z'
+datePublished: '2016-07-22T19:46:21.555Z'
+dateModified: '2016-07-22T19:43:26.959Z'
 title: ''
 author: []
 via: {}
@@ -29,12 +29,10 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db4a882-4c72-485f-bc53-fdb93f33a5bc.jpg)
 
 1. **Share from the web**. To add content from anywhere on the web, install The Grid Chrome extension via this link: http://thegr.id/1IRWuyn. Then simply right-click the content you want to share, and select the Grid icon with "share" next to it. It'll appear as a post on your drafts dashboard.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ace29033602f2d9baec3/file-B9ogQ0DNxU.gif)
 
 **Note**: Attempting to share from pages that require login (like Facebook), won't work - The Grid will only grab the content from the landing page/login page.
 
 1. **Share via the Post Editor.** The plus icon at the top right of the screen will take you into The Grid post editor where you can add photos and write short and long form articles.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ad359033602f2d9baec5/file-mCAgjRD5iA.gif)
 
 ### Editing a Post
 
@@ -97,6 +95,7 @@ Your site should be unique. That's why you don't see options to choose from. Ins
 1. **Color**: The color slider will change how color is distributed and displayed on your site.
 2. **Layout**: The layout slider changes the rhythm and flow of your site. We'll have more changes coming to the layout spectrum options soon!
 3. **Type**: The typography slider will allow you to choose a variety of font combinations for your site, from formal to informal.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80828f5f-7901-48d7-88cd-a8f160597b81.jpg)
 
 Occasionally The Grid will apply image filters to conform your content to your color palette.
 
@@ -109,7 +108,8 @@ The Grid Chrome extension makes it easy to share content to your Grid sites from
 
 You'll also get real time notifications from The Grid's AI designer when your site design options are ready for review, or the new content you shared to a site has been published.
 
-**To install the The Grid Chrome extension, head on over here**: http://thegr.id/1IRWuyn. 
+**To install the The Grid Chrome extension, head on over here**: http://thegr.id/1IRWuyn. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/759ec60d-9bc2-4ae7-845f-7610617b8481.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/683af8eb-6ab0-4c7d-86bc-ce48ee0d9a97.jpg)
 
 After installation, click the Grid logo at the top right of your browser to open the extension and be sure to login using the same social media identity you connected to your Grid account earlier in the activation process. E.g. If you used Twitter there, make sure to use Twitter here.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/561671909033600ce5c51f6c/file-Obcq852pFY.gif)
@@ -136,5 +136,5 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Email us at feedback@thegrid.io
 * Check out our Public Development Board for the latest info on known issues and planned features, and to submit ideas of your own: https://trello.com/b/DsYWip1U/the-grid-development- 
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80828f5f-7901-48d7-88cd-a8f160597b81.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c3fe0f6-c896-4140-a01e-109bcfffcb69.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/caccafc4-0daf-4c76-b73d-b482afd046f9.jpg)
