@@ -6,22 +6,26 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T19:35:49.275Z'
-dateModified: '2016-07-22T19:35:18.594Z'
+datePublished: '2016-07-22T19:39:01.245Z'
+dateModified: '2016-07-22T19:38:50.861Z'
 title: ''
 author: []
 via: {}
 sourcePath: _posts/2016-07-22-getting-started-on-the-grid.md
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6683fd4e-45ff-4e46-9a1d-1af1c3c61aff.jpg)
+> **Culinary Lifestyle Editorial Photographer**
 
-Culinary Lifestyle Editorial Photographer
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6683fd4e-45ff-4e46-9a1d-1af1c3c61aff.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4db4a882-4c72-485f-bc53-fdb93f33a5bc.jpg)
 
 1. **Share from the web**. To add content from anywhere on the web, install The Grid Chrome extension via this link: http://thegr.id/1IRWuyn. Then simply right-click the content you want to share, and select the Grid icon with "share" next to it. It'll appear as a post on your drafts dashboard.
@@ -133,3 +137,4 @@ We want to hear your feedback! (It is Beta, after all.) So if you find a bug, so
 * Check out our Public Development Board for the latest info on known issues and planned features, and to submit ideas of your own: https://trello.com/b/DsYWip1U/the-grid-development- 
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80828f5f-7901-48d7-88cd-a8f160597b81.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c3fe0f6-c896-4140-a01e-109bcfffcb69.jpg)
